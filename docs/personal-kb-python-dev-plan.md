@@ -182,6 +182,8 @@ kb/
 
 ## 6. 核心流程设计
 
+可视化流程图见：[personal-kb-flowcharts.md](./personal-kb-flowcharts.md)。
+
 ### 6.1 入库（Ingest）
 
 1. 扫描配置的根目录（例如 `~/notes/kb/**/*.md`）或读取单文件。
